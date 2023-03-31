@@ -1,0 +1,14 @@
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\BETAPI.exe
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\BETAPI.dll
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\BETAPI.deps.json
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\BETAPI.runtimeconfig.json
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\BETAPI.pdb
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\SLY.dll
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\PubTmp\Out\SLY.pdb

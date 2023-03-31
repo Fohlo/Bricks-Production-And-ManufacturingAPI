@@ -1,0 +1,115 @@
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\BETAPI.exe
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\BETAPI.deps.json
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\BETAPI.runtimeconfig.json
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\BETAPI.runtimeconfig.dev.json
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\BETAPI.dll
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\BETAPI.pdb
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\SLY.dll
+C:\Users\btsambani\source\repos\BETAPI\bin\Release\netcoreapp3.1\SLY.pdb
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\BETAPI.AssemblyInfoInputs.cache
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\BETAPI.AssemblyInfo.cs
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.CoreCompileInputs.cache
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\BETAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\BETAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\staticwebassets\BETAPI.StaticWebAssets.Manifest.cache
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\staticwebassets\BETAPI.StaticWebAssets.xml
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\scopedcss\bundle\BETAPI.styles.css
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\BETAPI.RazorTargetAssemblyInfo.cache
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.CopyComplete
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\BETAPI.dll
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\BETAPI.pdb
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\BETAPI.genruntimeconfig.cache
+C:\Users\btsambani\source\repos\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.AssemblyReference.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.exe
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.deps.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.runtimeconfig.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.runtimeconfig.dev.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.pdb
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\SLY.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\bin\Release\netcoreapp3.1\SLY.pdb
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.AssemblyReference.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.AssemblyInfoInputs.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.AssemblyInfo.cs
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.CoreCompileInputs.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\staticwebassets\BETAPI.StaticWebAssets.Manifest.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\staticwebassets\BETAPI.StaticWebAssets.xml
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\scopedcss\bundle\BETAPI.styles.css
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.RazorTargetAssemblyInfo.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.CopyComplete
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.pdb
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.genruntimeconfig.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.exe
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.deps.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.runtimeconfig.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.runtimeconfig.dev.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.pdb
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\SLY.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\SLY.pdb
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.AssemblyReference.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.AssemblyInfoInputs.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.AssemblyInfo.cs
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.CoreCompileInputs.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\staticwebassets\BETAPI.StaticWebAssets.Manifest.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\staticwebassets\BETAPI.StaticWebAssets.xml
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\scopedcss\bundle\BETAPI.styles.css
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.RazorTargetAssemblyInfo.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.CopyComplete
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.pdb
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.genruntimeconfig.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.exe
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.deps.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.runtimeconfig.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.runtimeconfig.dev.json
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\BETAPI.pdb
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\SLY.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\bin\Release\netcoreapp3.1\SLY.pdb
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.AssemblyReference.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.AssemblyInfoInputs.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.AssemblyInfo.cs
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.CoreCompileInputs.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\staticwebassets\BETAPI.StaticWebAssets.Manifest.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.RazorTargetAssemblyInfo.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.csproj.CopyComplete
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.dll
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.pdb
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.genruntimeconfig.cache
+C:\Users\fohlo\Desktop\D.B.S. Work\BETA BRICKS\BETA API\DBS-BETAPI\BETAPI\BETAPI\obj\Release\netcoreapp3.1\BETAPI.GeneratedMSBuildEditorConfig.editorconfig
